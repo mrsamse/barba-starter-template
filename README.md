@@ -25,6 +25,7 @@ Installation:
 
 ```
 git clone https://github.com/mrsamse/barba-starter-template.git
+npm install
 ```
 
 Watch for changes in your style & code files:
