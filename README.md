@@ -25,6 +25,7 @@ Installation:
 
 ```
 git clone https://github.com/mrsamse/barba-starter-template.git
+cd barba-starter-template 
 npm install
 ```
 
